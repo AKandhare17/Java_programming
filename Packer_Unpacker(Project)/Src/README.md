@@ -36,9 +36,9 @@ Built as part of MCA coursework to explore low-level file I/O, byte-level encryp
 ```
 FilePacker-Unpacker/
 ├── src/
-│   └── Main.java       # FilePackerUnpacker class + Main class
-├── MyFiles/            # Sample directory with .txt files for testing
-└── README.md
+│   └|── Main.java       # FilePackerUnpacker class + Main class
+├    |---README.md
+└── GUIFilePacker_Unpacker
 ```
 
 > `Main.java` contains the `FilePackerUnpacker` class with all packing, unpacking, and authentication logic, and the `Main` class as the entry point.
