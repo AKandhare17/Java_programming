@@ -1,0 +1,1 @@
+An alphanumeric value i.e. the sequence of letters and numbers that uniquely defines the contents of a file is called a checksum (often referred to as a hash).

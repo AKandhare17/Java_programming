@@ -1,0 +1,1 @@
+Java provides an inbuilt functionality of generating these hash functions through MessageDigest Class present in the security package of Java.

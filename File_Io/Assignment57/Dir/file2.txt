@@ -1,0 +1,1 @@
+Checksums are generally used to check the integrity of files downloaded from an external source. 

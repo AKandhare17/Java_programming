@@ -1,0 +1,2 @@
+FileName:A.txtSize:30Data:This Is Data From File A.txt
+FileName:B.txtSize:28Data:This Is Data From File B.txtFileName:C.txtSize:28Data:This Is Data From File C.txtA.txtB.txtC.txt

@@ -1,0 +1,1 @@
+MD5 and SHA are the two most widely used checksum algorithms.
